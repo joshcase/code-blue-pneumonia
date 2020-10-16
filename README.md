@@ -1,6 +1,6 @@
-Code Blue Example Project #1
+### Code Blue Example Project #1
 
-Pneumonia Antibiotics Decision Aid
+# Pneumonia Antibiotics Decision Aid
 
 An example project from my book, "Code Blue: An Introduction to Programming for Doctors and Medical Students".
 
